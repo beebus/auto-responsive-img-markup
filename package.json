@@ -1,0 +1,27 @@
+{
+  "name": "auto-responsive-img-markup",
+  "version": "1.0.0",
+  "description": "Automated Responsive Images Markup, using JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beebus/auto-responsive-img-markup.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Michael Beebower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beebus/auto-responsive-img-markup/issues"
+  },
+  "homepage": "https://github.com/beebus/auto-responsive-img-markup#readme",
+  "dependencies": {
+    "eslint-plugin-dollar-sign": "^1.0.2",
+    "eslint-plugin-jquery": "^1.5.1",
+    "jquery": "^3.5.1"
+  }
+}
